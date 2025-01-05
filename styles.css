@@ -1,0 +1,37 @@
+
+
+body { 
+  background-color:  rgba(205, 209, 228, 0.40);
+}
+
+h1, h2 { 
+  margin: 1em auto;
+  text-align: center;
+}
+
+.container {
+  margin: .8em auto;
+}
+
+form {
+  width: 80%;
+  margin: 0 auto;
+  padding: .8em 2em;
+  background-color: rgba(205, 209, 228, .90);
+};
+
+
+#comments {
+  margin-top: .8em;
+  width: 100%;
+}
+
+label {
+  margin-right: 1em;
+}
+
+
+input[type="submit"] {
+  display: block;
+  margin: 1em auto;
+}
